@@ -1,7 +1,8 @@
 # Village-of-Testing
 This project showcases XUnit testing and also delegates
 
-A C# "village simulator" console program that uses a delegate to gather the resources of a villager's specific profession.
+A C# "village simulator" console program that uses a delegate to gather the resources of a villager's specific profession.    
+    
 In this program you can:
 - Add workers and assign them to a profession
 - Gather resources for your village
