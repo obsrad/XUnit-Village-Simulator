@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = the_village_of_testing_petter_darsbo
+build_property.ProjectDir = C:\Users\petter\source\repos\the_village_of_testing\the_village_of_testing_petter_darsbo\
