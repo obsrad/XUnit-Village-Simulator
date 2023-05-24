@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2rlNyzTH9GwfJ3XujUTRIzMa8ZENIbZaefEJ2TjehakFELCKU7HHv/6TLxvNaYGabtXPd0EONdu8yicGHpW0Eg==",
+  "dgSpecHash": "K6ljZDRG34d7KXmAv/mxrtgG/nkpURO/sIBC2UngFRJ6kCZGIBCvSaR5LL68ZIX0FZOwwSKIFbzVVoVklt6aXw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\petter\\source\\repos\\the_village_of_testing\\the_village_of_testing_petter_darsbo.Tests\\the_village_of_testing_petter_darsbo.Tests.csproj",
+  "projectFilePath": "C:\\Users\\petter\\Documents\\GitHub\\XUnit-Village-Simulator\\the_village_of_testing\\the_village_of_testing_petter_darsbo.Tests\\the_village_of_testing_petter_darsbo.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\petter\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\petter\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",

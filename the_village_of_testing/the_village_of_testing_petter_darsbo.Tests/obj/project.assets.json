@@ -6135,11 +6135,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\petter\\source\\repos\\the_village_of_testing\\the_village_of_testing_petter_darsbo.Tests\\the_village_of_testing_petter_darsbo.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\petter\\Documents\\GitHub\\XUnit-Village-Simulator\\the_village_of_testing\\the_village_of_testing_petter_darsbo.Tests\\the_village_of_testing_petter_darsbo.Tests.csproj",
       "projectName": "the_village_of_testing_petter_darsbo.Tests",
-      "projectPath": "C:\\Users\\petter\\source\\repos\\the_village_of_testing\\the_village_of_testing_petter_darsbo.Tests\\the_village_of_testing_petter_darsbo.Tests.csproj",
+      "projectPath": "C:\\Users\\petter\\Documents\\GitHub\\XUnit-Village-Simulator\\the_village_of_testing\\the_village_of_testing_petter_darsbo.Tests\\the_village_of_testing_petter_darsbo.Tests.csproj",
       "packagesPath": "C:\\Users\\petter\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\petter\\source\\repos\\the_village_of_testing\\the_village_of_testing_petter_darsbo.Tests\\obj\\",
+      "outputPath": "C:\\Users\\petter\\Documents\\GitHub\\XUnit-Village-Simulator\\the_village_of_testing\\the_village_of_testing_petter_darsbo.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\petter\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6156,8 +6156,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\petter\\source\\repos\\the_village_of_testing\\the_village_of_testing_petter_darsbo\\the_village_of_testing_petter_darsbo.csproj": {
-              "projectPath": "C:\\Users\\petter\\source\\repos\\the_village_of_testing\\the_village_of_testing_petter_darsbo\\the_village_of_testing_petter_darsbo.csproj"
+            "C:\\Users\\petter\\Documents\\GitHub\\XUnit-Village-Simulator\\the_village_of_testing\\the_village_of_testing_petter_darsbo\\the_village_of_testing_petter_darsbo.csproj": {
+              "projectPath": "C:\\Users\\petter\\Documents\\GitHub\\XUnit-Village-Simulator\\the_village_of_testing\\the_village_of_testing_petter_darsbo\\the_village_of_testing_petter_darsbo.csproj"
             }
           }
         }
